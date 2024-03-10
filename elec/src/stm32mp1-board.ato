@@ -1,0 +1,2 @@
+module Stm32mp1Board:
+    signal gnd
